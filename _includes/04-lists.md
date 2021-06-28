@@ -1,5 +1,5 @@
 Replace this with a list of your favorite things.
-earth
-forest
-trees
-grass
+-earth
+-forest
+-trees
+-grass
